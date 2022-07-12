@@ -1,0 +1,23 @@
+h1
+{
+	color: rgb(160, 70, 90);
+	font-size: 2rem;
+	text-align: left;
+	text-transform: capitalize;
+}
+h2{color: rgb(90, 100, 170);}
+ul {color: rgb(90, 180, 140);}
+
+html
+{
+  font-family: "Lucida Handwriting";
+  font-size: 16px;
+background: url('https://anhdephd.vn/wp-content/uploads/2022/03/hinh-anh-anime-nam-ngau.jpg');
+background-size: cover;
+background-repeat: no-repeat;
+
+}
+div{
+	margin: 25px 30 50px 0;
+	padding: 0 40px 0 30px;
+}
